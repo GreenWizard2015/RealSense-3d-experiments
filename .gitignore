@@ -1,0 +1,7 @@
+__pycache__
+/.settings
+/.pydevproject
+/.project
+/Data/
+/.vscode
+/debug.log
